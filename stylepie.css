@@ -1,0 +1,24 @@
+.arc text {
+	font: 16px sans-serif;
+	color: #FFF;
+	text-anchor: middle;
+}
+
+.arc path {
+	font: 10px sans-serif;
+	text-anchor: middle;
+	stroke: none;
+}
+
+.arc2 path {
+	stroke: none;
+}
+
+body {
+	background-color: #212121;
+	color: #EEE;
+}
+
+svg{
+	margin-right: 80px; 
+}
